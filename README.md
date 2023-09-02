@@ -20,6 +20,7 @@ then do : git add .
 
 then do : git commit -m "Message"
 
-then do : git push -u origin master or # git push -u origin main
+then do : git push -u origin master or 
+        : git push -u origin main
 
 In this way the lage files will be uploaded to the github repository
